@@ -1,4 +1,4 @@
-A structure for a simple Account management sytem
+A structure code for a simple Account management sytem
 
 <img width="493" alt="image" src="https://github.com/user-attachments/assets/741a8523-5480-47d6-be1a-69afc990bf80">
 
